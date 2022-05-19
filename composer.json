@@ -1,5 +1,5 @@
 {
-    "name": "solspace/omnipay-authorizenetapi",
+    "name": "academe/omnipay-authorizenetapi",
     "type": "library",
     "description": "Authorize.Net payment gateway driver for the Omnipay 3.x payment processing library",
     "keywords": [
@@ -25,7 +25,7 @@
     },
     "require": {
         "omnipay/common": "^3",
-        "solspace/authorizenet-objects": "~0.7",
+        "academe/authorizenet-objects": "~0.7",
         "symfony/property-access": "^3.2 || ^4.0"
     },
     "require-dev": {
