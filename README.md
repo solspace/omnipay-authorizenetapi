@@ -24,7 +24,7 @@ Table of Contents
 
 # Omnipay-AuthorizeNetApi
 
-Omnipay 3.x implementation of Authorize.Net API
+Omnipay 3.x implementation of Authorize.Net API.
 
 # Installation
 
